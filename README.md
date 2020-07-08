@@ -1,1 +1,3 @@
 # hello-world
+
+It is always good to learn new things...
